@@ -79,31 +79,22 @@
           <li id="selector-contact" class="selectors"><a href="/contact">Contact</a></li>
         </ul>
       </nav>
-
-      <!-- <div class="fh5co-footer">
-        <p><small></small></p>
-        <ul>
-          <li><a href="#"><i class="icon-facebook2"></i></a></li>
-          <li><a href="#"><i class="icon-twitter2"></i></a></li>
-          <li><a href="#"><i class="icon-instagram"></i></a></li>
-          <li><a href="#"><i class="icon-linkedin2"></i></a></li>
-        </ul>
-      </div> -->
+      </div>
 
     </aside>
-
-    <div id="fh5co-main">
-      <!-- <aside id="fh5co-hero" class="js-fullheight">
+  <div id="fh5co-main">
+      <aside id="fh5co-hero" class="js-fullheight">
         <div class="flexslider js-fullheight">
           <ul class="slides">
-            <li style="background-image: url(/images/fa.jpg);">
+            <li style="background-image: url(/images/bg-1.jpg);">
               <div class="overlay"></div>
               <div class="container-fluid">
                 <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
                     <div class="slider-text-inner">
-                      <h1 ><strong>Full Stack Web Developer</strong> <br>Clean, smooth, classic interfaces that take you to your goals. </h1>
-                      <i class="fas fa-angle-double-down fa-3x" style="color:white; bottom: 5px; position:absolute; opacity: .5;"></i>
+                      <h1 ><strong>Want to see more?</strong> <br><p>If you wish to talk to me or to reach me directly, please email me at <a href="mailto:zach@zachalanmueller.com">zach@zachalanmueller.com</a>.</p>
+                       <a href="#" class="lead" id="more-contact">Other ways to contact me <i class="icon-arrow-right3"></i></a>
+                       <p id="direct-contact">If you are in need of a more immidiate contact or a less formal medium of contact suits you, feel free to reach me on discord. My username is Zaedonn#5031, feel free to add me there.</p>
                     </div>
                   </div>
                 </div>
@@ -111,63 +102,23 @@
             </li>
             </ul>
           </div>
-      </aside> -->
-      <!-- <div class="fh5co-narrow-content">
-         <h2 class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">About Me</h2>
-         <div class="row">
-            <div class="col-md-6">
-               <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                  <div class="fh5co-icon"><img src="/images/work1mod.jpg" height="100" style="border-radius: 50%;"></div>
-                  <div class="fh5co-text">
-                     <h3>Work</h3>
-                     <p>Simply put, I like to make tools to make life easier. Whether it be a simple script to turn on the AC when my alarm goes off in the morning or a website for tracking expenses to make smarter financial choices, it's all about making tools to help.</p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6">
-               <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                  <div class="fh5co-icon"><img src="/images/europe1.jpg" height="100" style="border-radius: 50%;"></div>
-                  <div class="fh5co-text">
-                     <h3>Family</h3>
-                     <p>It's not necessarily about who's blood you have, or who you're forced to spend the holidays with. It's about people you love and who love you back. There is nothing more important than that love that is shared.</p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6">
-               <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                  <div class="fh5co-icon"><img src="/images/europe2mod.jpg" height="100" style="border-radius: 50%;"></div>
-                  <div class="fh5co-text">
-                     <h3>Travel</h3>
-                     <p>Travel opens your eyes to the blessings of your life, as well as where you can improve to be the best version of you. Once I write a post on my travels, I will link it here.</p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6">
-               <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                  <div class="fh5co-icon"><img src="/images/family2mod.jpg" height="100" style="border-radius: 50%;"></div>
-                  <div class="fh5co-text">
-                     <h3>Adventure</h3>
-                     <p>I'm always looking for new challenges and adventures to engage in.</p>
-                  </div>
-               </div>
-            </div>
-         </div> -->
+      </aside>
+    </div>
+  </div>
+    <div id="fh5co-main">
 
          <div class="fh5co-narrow-content">
            <h2 class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">Contact Me</h2>
            <hr>
            <div class="row row-bottom-padded-md">
-              <div class="col-md-12 col-sm-12 col-padding animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                 <div class="blog-entry">
-                    <div class="blog-img"><img src="/images/bg-1.jpg" class="img-responsive" alt="Contact Me" style="height: auto;"></div>
-                    <div class="desc">
-                       <h3><a href="#"> </a></h3>
-                       <!-- <span><small>by Admin </small>/ <small>Web Design </small>/ <small><i class="icon-comment"></i> 14</small></span> -->
-                       <p>If you wish to talk to me or to reach me directly, please email me at <a href="mailto:zach@zachalanmueller.com">zach@zachalanmueller.com</a>.</p>
+              <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                  <div class="fh5co-icon"><img src="/images/bg-1.jpg" height="100" ></div>
+                  <div class="fh5co-text">
+                     <p>If you wish to talk to me or to reach me directly, please email me at <a href="mailto:zach@zachalanmueller.com">zach@zachalanmueller.com</a>.</p>
                        <a href="#" class="lead" id="more-contact">Other ways to contact me <i class="icon-arrow-right3"></i></a>
-                       <p id="direct-contact">If you are in need of a more immidiate contact or a less formal medium of contact suits you, feel free to reach me on discord. My username is Zaedonn#5031, feel free to add me there.</p>
-                    </div>
-                 </div>
+                       <p id="direct-contact" style="font-size: 14px;">If you are in need of a more immidiate contact or a less formal medium of contact suits you, feel free to reach me on discord. My username is Zaedonn#5031, feel free to add me there.</p>
+                  </div>
+               </div>
               </div>
         </div>
       </div>
@@ -193,7 +144,8 @@
     $('#direct-contact').hide();
     $('#more-contact').click(function(e){
       e.preventDefault();
-      $('#direct-contact').show(1500);
+      $('#direct-contact').css("font-size", "12px");
+      $('#direct-contact').show(500);
     })
   </script>
   </body>
