@@ -82,7 +82,7 @@
       </div>
 
     </aside>
-  <div id="fh5co-main">
+    <div id="fh5co-main">
       <aside id="fh5co-hero" class="js-fullheight">
         <div class="flexslider js-fullheight">
           <ul class="slides">
@@ -104,26 +104,6 @@
           </div>
       </aside>
     </div>
-  </div>
-    <div id="fh5co-main">
-
-         <div class="fh5co-narrow-content">
-           <h2 class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">Contact Me</h2>
-           <hr>
-           <div class="row row-bottom-padded-md">
-              <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                  <div class="fh5co-icon"><img src="/images/bg-1.jpg" height="100" ></div>
-                  <div class="fh5co-text">
-                     <p>If you wish to talk to me or to reach me directly, please email me at <a href="mailto:zach@zachalanmueller.com">zach@zachalanmueller.com</a>.</p>
-                       <a href="#" class="lead" id="more-contact">Other ways to contact me <i class="icon-arrow-right3"></i></a>
-                       <p id="direct-contact" style="font-size: 14px;">If you are in need of a more immidiate contact or a less formal medium of contact suits you, feel free to reach me on discord. My username is Zaedonn#5031, feel free to add me there.</p>
-                  </div>
-               </div>
-              </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <!-- jQuery -->
   <script src="js/jquery.min.js"></script>
