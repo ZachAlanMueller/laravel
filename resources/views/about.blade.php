@@ -115,7 +115,7 @@
       <div class="fh5co-narrow-content">
          <h2 class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">About Me</h2>
          <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-5">
                <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                   <div class="fh5co-icon"><img src="/images/work1mod.jpg" height="100" style="border-radius: 50%;"></div>
                   <div class="fh5co-text">
@@ -124,16 +124,16 @@
                   </div>
                </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                   <div class="fh5co-icon"><img src="/images/europe1.jpg" height="100" style="border-radius: 50%;"></div>
                   <div class="fh5co-text">
                      <h3>Family</h3>
-                     <p>It's not necessarily about who's blood you have, or who you're forced to spend the holidays with. It's about people you love and who love you back. There is nothing more important than that love that is shared.</p>
+                     <p>Family extends beyond what family you were born into, or who you're forced to spend the holidays with. It's about people you love and who love you back. There is nothing more important than that love that is shared.</p>
                   </div>
                </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                   <div class="fh5co-icon"><img src="/images/europe2mod.jpg" height="100" style="border-radius: 50%;"></div>
                   <div class="fh5co-text">
@@ -142,12 +142,12 @@
                   </div>
                </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                <div class="fh5co-feature animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                   <div class="fh5co-icon"><img src="/images/family2mod.jpg" height="100" style="border-radius: 50%;"></div>
                   <div class="fh5co-text">
                      <h3>Adventure</h3>
-                     <p>I'm always looking for new challenges and adventures to engage in.</p>
+                     <p>I'm always looking for new challenges and adventures to engage in. Suggestions on where I should adventure? Let me know!</p>
                   </div>
                </div>
             </div>

@@ -73,7 +73,7 @@
       <nav id="fh5co-main-menu" role="navigation">
         <ul>
           <li id="selector-home" class="selectors"><a href="/">Home</a></li>
-          <li id="selector-blog" class="selectors"><a disabled href="http://blog.zachalanmueller.com">Blog</a></li>
+          <li id="selector-blog" class="selectors"><a href="http://blog.zachalanmueller.com">Blog</a></li>
           <li id="selector-portfolio" class="selectors"><a href="/portfolio">Portfolio</a></li>
           <li id="selector-about" class="selectors"><a href="/about">About</a></li>
           <li id="selector-contact" class="selectors"><a href="/contact">Contact</a></li>
@@ -102,7 +102,7 @@
                 <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
                     <div class="slider-text-inner">
-                      <h1 ><strong>Full Stack Web Developer</strong> <br>Clean, smooth, classic interfaces that take you to your goals. </h1>
+                      <h1 ><strong>Development Done Right</strong> <br>It's not just about how it looks, it's about how it works. Simplicity is the ultimate sophistication. </h1>
                       
                     </div>
                   </div>
@@ -115,9 +115,9 @@
                 <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
                     <div class="slider-text-inner">
-                      <h1>Like what you see?</h1>
+                      <h1>Want to see more?</h1><br><br>
                       <h2>A lot of what I do is open source. Checkout my github!</h2>
-                      <p><a class="btn btn-primary btn-demo popup-vimeo" href="https://github.com/ZachAlanMueller"> <i class="fab fa-github"></i> Github</a></p>
+                      <p><a style="padding: 14px 30px !important;" class="btn-primary btn" href="https://github.com/ZachAlanMueller"> <i class="fab fa-github"></i> Github</a></p>
                     </div>
                   </div>
                 </div>
