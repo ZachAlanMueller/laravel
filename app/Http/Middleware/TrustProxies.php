@@ -19,8 +19,9 @@ class TrustProxies extends Middleware
      *
      * @var array
      */
-    //protected $headers = Request::HEADER_X_FORWARDED_ALL;
-    protected $headers = [
+    
+    //protected $headers = Request::HEADER_X_FORWARDED_ALL; //use this for local serve
+    protected $headers = [ //use this for web deployment
         Request::HEADER_FORWARDED => 'FORWARDED',
         Request::HEADER_X_FORWARDED_FOR => 'X_FORWARDED_FOR',
         Request::HEADER_X_FORWARDED_HOST => 'X_FORWARDED_HOST',

@@ -13,3 +13,5 @@ yarn-error.log
 .env
 
 public/\.DS_Store
+
+app/Http/Middleware/TrustProxies.php
