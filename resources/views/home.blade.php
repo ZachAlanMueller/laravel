@@ -73,7 +73,7 @@
       <nav id="fh5co-main-menu" role="navigation">
         <ul>
           <li id="selector-home" class="selectors"><a href="/">Home</a></li>
-          <li id="selector-blog" class="selectors"><a href="http://blog.zachalanmueller.com">Blog</a></li>
+          <li id="selector-blog" class="selectors"><a disabled href="http://blog.zachalanmueller.com">Blog</a></li>
           <li id="selector-portfolio" class="selectors"><a href="/portfolio">Portfolio</a></li>
           <li id="selector-about" class="selectors"><a href="/about">About</a></li>
           <li id="selector-contact" class="selectors"><a href="/contact">Contact</a></li>
